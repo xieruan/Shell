@@ -1,5 +1,12 @@
 # Shell
 
+使用前
+```
+apt-get install -y xz-utils openssl gawk file
+```
+```
+yum install -y xz-utils openssl gawk file
+```
 使用
 ```
 wget https://raw.githubusercontent.com/xieruan/Shell/master/AutoDD.sh && bash AutoDD.sh
