@@ -19,7 +19,7 @@ wget https://mirror.ghproxy.com/https://raw.githubusercontent.com/xieruan/Shell/
 dd centos硬盘空间变小
 
 ```
-yum install cloud-utils-growpart -y
+yum install cloud-utils-growpart -y && LANG=en_US.UTF-8
 ```
 
 ```
